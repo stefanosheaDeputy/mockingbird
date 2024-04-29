@@ -58,7 +58,7 @@ if ProcessInfo.processInfo.environment["MKB_BUILD_EXECUTABLES"] != "1" {
         .package(url: "https://github.com/kylef/PathKit.git", .upToNextMajor(from: "1.0.1")),
         .package(name: "SwiftSyntax", url: "https://github.com/apple/swift-syntax.git", .upToNextMajor(from: "0.50500.0")),
         .package(url: "https://github.com/jpsim/SourceKitten.git", .upToNextMajor(from: "0.30.0")),
-        .package(url: "https://github.com/tuist/XcodeProj.git", .upToNextMajor(from: "8.16.0")),
+        .package(url: "https://github.com/tuist/XcodeProj.git", .exact("8.20.0")),
         .package(url: "https://github.com/weichsel/ZIPFoundation.git", .upToNextMajor(from: "0.9.14")),
     ],
     targets: [
