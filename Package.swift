@@ -12,7 +12,7 @@ if ProcessInfo.processInfo.environment["MKB_BUILD_EXECUTABLES"] != "1" {
     name: "Mockingbird",
     platforms: [
       .macOS(.v10_10),
-      .iOS(.v15),
+      .iOS(.v9),
       .tvOS(.v9),
       .watchOS("7.4"),
     ],

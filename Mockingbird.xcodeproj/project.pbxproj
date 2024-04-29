@@ -2991,7 +2991,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D372A592245586DD0000E80A /* MockingbirdFramework.xcconfig */;
 			buildSettings = {
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Profile;
 		};
@@ -3440,7 +3439,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D372A592245586DD0000E80A /* MockingbirdFramework.xcconfig */;
 			buildSettings = {
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Debug;
 		};
@@ -3448,7 +3446,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D372A592245586DD0000E80A /* MockingbirdFramework.xcconfig */;
 			buildSettings = {
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Release;
 		};
