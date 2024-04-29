@@ -3686,7 +3686,7 @@
 			repositoryURL = "https://github.com/tuist/XcodeProj.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 8.7.1;
+				minimumVersion = 8.16.0;
 			};
 		};
 		28874F8926BF12DD00097529 /* XCRemoteSwiftPackageReference "swift-argument-parser" */ = {
